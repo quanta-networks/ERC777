@@ -1,4 +1,4 @@
-# ERC777
+# Quanta Networks - ERC777
 Secure Blockchain Compliant Telecom
 
 Abstract
