@@ -90,3 +90,8 @@ Quanta manages network paths both dynamically and asymmetrically. By simultaneou
 SIM/eSim Based
 
 Anyone using a phone equipped with a SIM or eSim will be able to use a Quanta Blockchain Network. This means that Quanta's disruptive technology will be immediately available to be used in the Global marketplace. Having the Quanta Blockchain Network technology residing on the sim/eSim instead of the phones Operating system makes it easier to adapt our technology to the majority of the mobile devices in use in the global network ecosystem.
+
+NOTICE: Quanta Networks does not have any License, Rights, Ownership or claim to the underlying technology,
+And has no rights to License, sell, or contract for any product or solution based on the underlying technology.
+All ownership, creation, license and rights are owned wholly and solely by Dan Gahlinger
+Please contact Dan directly at a non-quanta email address for License, sales or contract inquiries.
